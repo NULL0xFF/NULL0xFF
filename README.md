@@ -7,6 +7,13 @@
 - 🧰 **DevOps** Engineer
 - 🖧 **Network** Manager
 
+## Interested Domains ##
+
+- 👨‍🏫 Federated Learning Platform
+- 💽 Software Orchestration
+- 💾 Hardware Virtualization
+- ☁️ Cloud Service
+
 ### Activities 📚
 
 - Member of 🛡️ **ARGOS**, Information Protection and Security Club in CNU (Mar 2018–Present)
