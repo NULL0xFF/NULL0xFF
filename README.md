@@ -8,11 +8,9 @@
 
 ### Activities 📚
 
-- Infrastructure Manager: Information Protection and Security Club, ARGOS (Mar 2023–Present)
 - Member of 🛡️ **ARGOS**, Information Protection and Security Club in CNU (Mar 2018–Present)
 - Supervisor of 🏃 **SOGRA Hackathon**, ARGOS (May 2023)
 - Supervisor of 🚩 **Just For Security CTF**, ARGOS (Nov 2022)
-- Web Master: Information Protection and Security Club, ARGOS (Mar 2022–Feb 2023)
 
 ### Skills 
 
