@@ -2,6 +2,7 @@
 
 - 🧑‍🎓 **[Chungnam Nat'l Univ.](https://computer.cnu.ac.kr)** Senior in CSE
 - 🛡️ **[ARGOS](https://argos.or.kr)** Club - Infrastructure Manager
+- 🔬 **Undergraduate Researcher** in [Data Network Laboratory](https://dnlab.cs-cnu.org), CNU CSE
 - 🧑‍💻 **Back-End** Developer
 - 🧰 **DevOps** Engineer
 - 🖧 **Network** Manager
