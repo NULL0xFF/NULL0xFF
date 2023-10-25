@@ -22,6 +22,7 @@
 
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
 ![IDEA](https://skillicons.dev/icons?i=idea)
