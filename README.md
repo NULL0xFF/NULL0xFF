@@ -1,6 +1,6 @@
 ## Myoung Ha Ji
 
-- 🧑‍🎓 **[Chungnam Nat'l Univ.](https://computer.cnu.ac.kr)** Senior in CSE
+- 🎓 **[Chungnam Nat'l Univ.](https://computer.cnu.ac.kr)** Graduate in CSE
 - 🧑‍💻 **Back-End** Developer
 - 🧰 **DevOps** Engineer
 - 🖧 **Network** Manager
