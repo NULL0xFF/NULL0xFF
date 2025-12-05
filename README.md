@@ -1,16 +1,23 @@
 ## Myoung Ha, Ji
 
+- ​🛡️ **Security Analyst** @ [IGLOO Corporation](https://www.igloo.co.kr)
 - 🎓 **[Chungnam Nat'l Univ.](https://computer.cnu.ac.kr)** Graduate in CSE
 - 🧑‍💻 **Back-End** Developer
 - 📶 **Network** Engineer
 
-### Interested Domains ##
+### Work Experience
+
+- ​🐧 IGLOO Corporation (Dec 2025 – Present)
+  - ​Security Operation Center Team
+  - ​Probationary Employee
+
+### Interested Domains
 
 - 💽 Software Orchestration
 - 💾 Hardware Virtualization
 - ☁️ Network and Cloud Service
 
-### Activities 📚
+### Activities
 
 - Member of 🛡️ **ARGOS**, Information Protection and Security Club in CNU (Mar 2018–Aug 2023)
 - Supervisor of 🏃 **SOGRA Hackathon**, ARGOS (May 2023)
