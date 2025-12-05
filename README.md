@@ -1,13 +1,13 @@
 ## Myoung Ha, Ji
 
-- ​🛡️ **Security Analyst** @ [IGLOO Corporation](https://www.igloo.co.kr)
+- ​🛡️ **Security Analyst** @ **[IGLOO Corporation](https://www.igloo.co.kr)**
 - 🎓 **[Chungnam Nat'l Univ.](https://computer.cnu.ac.kr)** Graduate in CSE
 - 🧑‍💻 **Back-End** Developer
 - 📶 **Network** Engineer
 
 ### Work Experience
 
-- ​🐧 IGLOO Corporation (Dec 2025 – Present)
+- ​🐧 **IGLOO Corporation** (Dec 2025 – Present)
   - ​Security Operation Center Team
   - ​Probationary Employee
 
