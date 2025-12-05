@@ -26,9 +26,9 @@
 ### Education ##
 
 - **Chungnam National University** (Mar 2018 - Feb 2024)
- - ​B.S. in Computer Science and Engineering
+  - ​B.S. in Computer Science and Engineering
 - Completed the [2023 CNU **SW Academy**](https://sites.google.com/g.cnu.ac.kr/nhn/%EC%A7%80%EB%82%9C-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%95/%EC%A0%95%EA%B7%9C%EA%B3%BC%EC%A0%95-3%EA%B8%B0) (Jun 2023-Oct 2023)
- - Backend Track, Cohort 3
+  - Backend Track, Cohort 3
 
 ### Skills 
 
