@@ -9,7 +9,7 @@
 
 - ​🐧 **IGLOO Corporation** (Dec 2025 – Present)
   - ​Security Operation Center Team
-  - ​Probationary Employee
+  - ​Junior Staff
 
 ### Interested Domains
 
